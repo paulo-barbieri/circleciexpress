@@ -12,7 +12,7 @@ async function fetchAsync() {
 }
 // trigger async function
 // log response or catch error of fetch promise
-//
+// this is a test
 
 fetchAsync()
   .then((data) => console.log(data))
